@@ -35,7 +35,7 @@ jobs:
           node-version: 20
 
       - name: Run cspell validation
-        uses: streetsidesoftware/cspell-action@v6
+        uses: streetsidesoftware/cspell-action@v8
         with:
           files: |
             **/*.md
