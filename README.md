@@ -13,7 +13,7 @@ This repository provides:
 
 ---
 
-# Why This Repository Exists
+## Why This Repository Exists
 
 Engineering repositories often become:
 
@@ -37,7 +37,7 @@ This repository aims to provide a reusable engineering baseline for building rep
 
 ---
 
-# Repository Philosophy
+## Repository Philosophy
 
 This template focuses on engineering thinking rather than definition memorization.
 
@@ -64,7 +64,7 @@ Target feeling:
 
 ---
 
-# Repository Content Philosophy
+## Repository Content Philosophy
 
 Every repository created using this template should focus on:
 
@@ -81,7 +81,7 @@ Every repository created using this template should focus on:
 
 ---
 
-# Engineering Principles
+## Engineering Principles
 
 Every major topic should help answer:
 
@@ -98,9 +98,9 @@ Every major topic should help answer:
 
 ---
 
-# Included Features
+## Included Features
 
-## Repository Standards
+### Engineering Standards
 
 - Standard repository structure
 - Engineering-focused organization
@@ -110,7 +110,7 @@ Every major topic should help answer:
 
 ---
 
-## GitHub Workflows
+### GitHub Workflows
 
 - Markdown linting
 - Spell checking
@@ -120,7 +120,7 @@ Every major topic should help answer:
 
 ---
 
-## Engineering Governance
+### Engineering Governance
 
 - Branch protection support
 - Release management foundation
@@ -130,7 +130,7 @@ Every major topic should help answer:
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```text
 .
@@ -142,11 +142,13 @@ Every major topic should help answer:
 ├── examples/
 ├── references/
 ├── scripts/
+│   └── engineering-repo-template.sh
 ├── README.md
 ├── LICENSE
 ├── CHANGELOG.md
 ├── TODO.md
 ├── CONTRIBUTING.md
+├── SECURITY.md
 ├── .editorconfig
 ├── .markdownlint.json
 └── .yamllint.yml
@@ -154,17 +156,17 @@ Every major topic should help answer:
 
 ---
 
-# Included Workflows
+## Included Workflows
 
 | Workflow | Purpose |
-|---|---|
+| --- | --- |
 | Markdown Lint | Markdown quality validation |
 | Spell Check | Documentation spell validation |
 | YAML Lint | Workflow and YAML validation |
 
 ---
 
-# Enterprise Repository Features
+## Enterprise Repository Features
 
 This template includes foundations for:
 
@@ -181,7 +183,7 @@ This template includes foundations for:
 
 ---
 
-# Recommended Repository Types
+## Recommended Repository Types
 
 This template is designed for repositories such as:
 
@@ -198,9 +200,9 @@ This template is designed for repositories such as:
 
 ---
 
-# Recommended Repository Lifecycle
+## Recommended Repository Lifecycle
 
-## Repository Creation
+### Repository Creation
 
 1. Create repository from template
 2. Configure repository settings
@@ -212,7 +214,7 @@ This template is designed for repositories such as:
 
 ---
 
-## Repository Standards
+### Repository Standards
 
 Recommended standards:
 
@@ -226,7 +228,7 @@ Recommended standards:
 
 ---
 
-## Repository Governance
+### Repository Governance
 
 Recommended governance model:
 
@@ -239,7 +241,7 @@ Recommended governance model:
 
 ---
 
-# Current Repository Capabilities
+## Current Repository Capabilities
 
 Current template capabilities include:
 
@@ -256,7 +258,33 @@ Current template capabilities include:
 
 ---
 
-# Future Enhancements
+## Repository Bootstrap Automation
+
+This repository includes reusable engineering repository automation:
+
+```bash
+./scripts/engineering-repo-template.sh <repository-name>
+```
+
+Example:
+
+```bash
+./scripts/engineering-repo-template.sh platform-engineering-playbook
+```
+
+The automation script generates:
+
+- Standard repository structure
+- GitHub workflows
+- Governance files
+- Documentation standards
+- Security baseline files
+- Engineering repository foundations
+- Reusable CI/CD validation setup
+
+---
+
+## Future Enhancements
 
 Planned future additions:
 
@@ -272,6 +300,6 @@ Planned future additions:
 
 ---
 
-# License
+## License
 
 MIT License

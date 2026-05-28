@@ -1,6 +1,6 @@
 # TODO
 
-# High Priority
+## High Priority
 
 - Add `.gitignore`
 - Add `CODEOWNERS`
@@ -15,7 +15,7 @@
 
 ---
 
-# Medium Priority
+## Medium Priority
 
 - Add link checker workflow
 - Add Gitleaks secret scanning workflow
@@ -30,7 +30,7 @@
 
 ---
 
-# Low Priority
+## Low Priority
 
 - Add repository badges
 - Add architecture diagrams
@@ -42,7 +42,7 @@
 
 ---
 
-# Future Ideas
+## Future Ideas
 
 ## Repository Profiles
 

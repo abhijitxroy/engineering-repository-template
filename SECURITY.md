@@ -6,14 +6,14 @@ Avoid publicly disclosing vulnerabilities before fixes are available.
 
 ---
 
-# Supported Versions
+## Supported Versions
 
 | Version | Supported |
-|---|---|
-| Latest | Yes |
+| ------- | --------- |
+| Latest  | Yes       |
 
 ---
 
-# Reporting a Vulnerability
+## Reporting a Vulnerability
 
 Please open a private security report or contact the repository maintainer directly.

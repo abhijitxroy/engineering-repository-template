@@ -9,7 +9,7 @@ Please ensure:
 - Content stays concise and revision-friendly
 - Avoid unnecessary filler
 
-# Contributing
+## Contribution Process
 
 Contributions, improvements, fixes, and engineering discussions are welcome.
 
@@ -17,7 +17,7 @@ This repository focuses on building production-aware, engineering-focused, inter
 
 ---
 
-# Contribution Philosophy
+## Contribution Philosophy
 
 The goal is to keep repositories:
 
@@ -35,7 +35,7 @@ Target feeling:
 
 ---
 
-# Contribution Guidelines
+## Contribution Guidelines
 
 Please ensure contributions:
 
@@ -51,7 +51,7 @@ Please ensure contributions:
 
 ---
 
-# Recommended Content Style
+## Recommended Content Style
 
 Strong contributions usually explain:
 
@@ -68,7 +68,7 @@ Strong contributions usually explain:
 
 ---
 
-# Documentation Principles
+## Documentation Principles
 
 Preferred writing style:
 
@@ -90,7 +90,7 @@ Avoid:
 
 ---
 
-# Pull Request Expectations
+## Pull Request Expectations
 
 Before submitting changes:
 
@@ -103,7 +103,7 @@ Before submitting changes:
 
 ---
 
-# Repository Standards
+## Repository Standards
 
 This repository follows:
 
@@ -115,7 +115,7 @@ This repository follows:
 
 ---
 
-# Long-Term Vision
+## Long-Term Vision
 
 This repository ecosystem aims to build:
 

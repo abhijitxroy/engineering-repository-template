@@ -12,7 +12,7 @@ This project follows:
 
 ## [1.0.0] - 2026-05-28
 
-# Added
+## Added
 
 ## Repository Foundation
 
