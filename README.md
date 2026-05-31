@@ -81,6 +81,41 @@ Every repository created using this template should focus on:
 
 ---
 
+## Engineering Ecosystem Philosophy
+
+This template is designed for building repositories that operate as part of a larger engineering knowledge ecosystem rather than isolated documentation projects.
+
+Repositories should maintain:
+
+- Clear ownership boundaries
+- Cross-repository consistency
+- Production-focused engineering philosophy
+- Operationally realistic explanations
+- Standardized repository structure
+- Long-term maintainability
+- Scalable navigation and organization
+- Interview and revision friendliness
+
+The ecosystem should evolve as interconnected engineering domains covering areas such as:
+
+- Backend Engineering
+- Cloud Infrastructure
+- Platform Engineering
+- DevOps and Release Engineering
+- Observability and Reliability
+- Operating Systems and Networking
+- System Design and Architecture
+- AI Engineering Platforms
+
+The goal is to build repositories that feel like:
+
+- Production engineering knowledge systems
+- Operational engineering playbooks
+- Long-term revision platforms
+- Scalable engineering learning ecosystems
+
+Not isolated collections of markdown files or disconnected technical notes.
+
 ## Engineering Principles
 
 Every major topic should help answer:
